@@ -1,0 +1,9 @@
+# 1 True or false: An if statement can live without an else statement. True
+# 2 True or false: An else statement can live without an if statement. False
+# 3 True or false: An elif statement can live without an if statement. False
+# 4 True or false: An if + elif statement can live without an else statement. False
+# 5 True or false: The following statements are equivalent
+# 6 True -
+#    Making 'a' equal 'True'  if a == True:
+#    then reading 'a' will return 'true'  if a:
+#  7  No output - I ran the file see file part1ex7.py, but do not understand the logic.

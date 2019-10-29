@@ -1,0 +1,12 @@
+a = False
+b = True
+c = True
+
+if a:
+    print('1')
+elif b:
+    print('2')
+elif c:
+    print('3')
+else:
+    print('4')
